@@ -1,0 +1,11 @@
+transformers
+datasets
+tokenizers
+accelerate
+jupyter
+nbformat
+torch
+torchvision
+torchaudio
+git+https://github.com/huggingface/lerobot.git
+timm
